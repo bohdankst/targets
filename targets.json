@@ -347,14 +347,14 @@
             },
             "heltec433": {
                 "product_name": "DIY 433 HELTEC TX",
-                "lua_name": "DIY900 HELTEC V2",
-                "layout_file": "DIY 433 heltec.json",
+                "lua_name": "DIY433 HELTEC V2",
+                "layout_file": "DIY 433 Heltec.json",
                 "logo_file": "elrs64.bin",
                 "upload_methods": ["uart", "wifi"],
                 "min_version": "3.0.0",
                 "platform": "esp32",
                 "firmware": "Unified_ESP32_900_TX",
-                "prior_target_name": "DIY_900_TX_HELTEC_V2_SX127x"
+                "prior_target_name": "DIY_433_TX_HELTEC_V2_SX127x"
             },
             "e19": {
                 "product_name": "DIY ESP32 E19 900MHz TX",
@@ -412,8 +412,8 @@
             },
             "heltec433": {
                 "product_name": "DIY 433 HELTEC RX",
-                "lua_name": "DIY900 HELTEC V2",
-                "layout_file": "DIY 433 heltec.json",
+                "lua_name": "DIY433 HELTEC V2",
+                "layout_file": "DIY 433 Heltec.json",
                 "upload_methods": ["uart", "wifi"],
                 "min_version": "3.0.0",
                 "platform": "esp32",
